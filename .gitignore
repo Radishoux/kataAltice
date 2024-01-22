@@ -1,0 +1,22 @@
+# .gitignore
+
+# Dependencies
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+.env
+.env.test
+
+# Dist directory
+/dist
+
+# IDE settings
+/.vscode
+
+# TypeScript cache
+.tsbuildinfo
